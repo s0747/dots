@@ -1,4 +1,4 @@
-# .config
+# dots
 
 ```
 sudo apt install stow
