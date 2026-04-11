@@ -1,0 +1,9 @@
+
+build-essential
+stow
+rustup
+git
+neovim 
+tmux 
+id3v2
+cmake
