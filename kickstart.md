@@ -1,7 +1,7 @@
 
 
 ```
-sudo apt install stow rustup git neovim tmux id3v2
+sudo apt install stow rustup git neovim tmux id3v2 build-essential cmake
 ```
 
 - rust
