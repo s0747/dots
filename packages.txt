@@ -1,9 +1,7 @@
-
+git
 build-essential
+cmake
 stow
 rustup
-git
 neovim 
-tmux 
-id3v2
-cmake
+tmux
