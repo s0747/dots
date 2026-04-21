@@ -20,5 +20,6 @@ sudo update-alternatives --config editor
 
 - RUST
 ```
-
+cargo install cargo-binstall
+cargo binstall watchexec-cli
 ```
