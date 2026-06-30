@@ -1,6 +1,6 @@
 # dots
 
-# Kickstart
+- KICKSTART
 ```
 sudo apt install -y \
 git \
