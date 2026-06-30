@@ -41,8 +41,7 @@ sudo update-alternatives --config editor
 
 - RUST
 ```
-cargo install --locked watchexec-cli
-or
+rustup default stable
 cargo install cargo-binstall
 cargo binstall watchexec-cli
 ```
