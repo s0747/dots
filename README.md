@@ -44,4 +44,5 @@ sudo update-alternatives --config editor
 rustup default stable
 cargo install cargo-binstall
 cargo binstall watchexec-cli
+cargo binstall tree-sitter-cli
 ```
