@@ -9,7 +9,6 @@ locate \
 cmake \
 stow \
 rustup \
-neovim  \
 tmux \
 fzf
 ```
