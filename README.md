@@ -30,7 +30,6 @@ cd build
 cpack -G DEB
 sudo dpkg -i nvim-linux64.deb
 
-
 sudo update-alternatives --install /usr/bin/vi vi "$(command -v nvim)" 60
 sudo update-alternatives --config vi
 sudo update-alternatives --install /usr/bin/vim vim "$(command -v nvim)" 60
