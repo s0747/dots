@@ -15,6 +15,8 @@ fzf
 ```
 
 ```
+echo 'source /usr/share/doc/fzf/examples/key-bindings.bash' >> ~/.bashrc
+echo 'source /usr/share/doc/fzf/examples/completion.bash' >> ~/.bashrc
 echo 'export TERM=xterm-256color' >> ~/.bashrc
 source  ~/.bashrc
 ```
