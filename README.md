@@ -1,5 +1,17 @@
 # dots
 
+# Kicksatrt 
+```
+sudo apt install -y \
+git \
+build-essential \
+cmake \
+stow \
+rustup \
+neovim  \
+tmux \
+fzf
+```
 - NVIM
 ```
 git clone https://github.com/neovim/neovim.git
