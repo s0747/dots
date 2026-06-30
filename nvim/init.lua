@@ -62,7 +62,7 @@ lazy.setup({
     config = function()
       -- W nowoczesnym nvim-treesitter konfigurację przekazuje się bezpośrednio do głównego modułu
       require("nvim-treesitter").setup({
-        ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "rust" },
+        ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "rust", "yaml" },
         sync_install = false,
         auto_install = true,
         highlight = {
