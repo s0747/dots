@@ -12,6 +12,11 @@ neovim  \
 tmux \
 fzf
 ```
+
+```
+echo 'export TERM=xterm-256color' >> ~/.profile
+```
+
 - NVIM
 ```
 git clone https://github.com/neovim/neovim.git
