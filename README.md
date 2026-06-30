@@ -5,6 +5,7 @@
 sudo apt install -y \
 git \
 build-essential \
+locate \
 cmake \
 stow \
 rustup \
