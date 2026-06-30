@@ -15,6 +15,7 @@ fzf
 
 ```
 echo 'export TERM=xterm-256color' >> ~/.profile
+source ~/.profile
 ```
 
 - NVIM
